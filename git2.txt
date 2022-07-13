@@ -1,1 +1,0 @@
-git clone https://mei1804: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@github.com/sygnia/qemuno_ui.git
